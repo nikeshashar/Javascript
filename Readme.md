@@ -4,5 +4,4 @@
 + Javascripting from [Nodeschool.io](https://www.nodeschool.io)
 
 ####In Progress
-===========
 + Learnyounode from [Nodeschool.io](https://www.nodeschool.io)
